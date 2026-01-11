@@ -54,5 +54,5 @@ BSc Data Science
 
 ---
 
-## ⭐ If you like this project
+## ⭐ If you like this project.
 Please ⭐ star the repository and feel free to fork it!
